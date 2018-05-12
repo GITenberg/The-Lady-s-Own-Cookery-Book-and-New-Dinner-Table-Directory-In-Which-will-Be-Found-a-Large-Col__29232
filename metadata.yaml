@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33772
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Bury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29232#The-Lady-s-Own-Cookery-Book-and-New-Dinner-Table-Directory-In-Which-will-Be-Found-a-Large-Col_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-06-25'
 gutenberg_type: Text
